@@ -1,0 +1,3 @@
+[submodule "FWOTA"]
+	path = FWOTA
+	url = https://github.com/nagesh-14/FWOTA.git
